@@ -1,2 +1,6 @@
 # OpenGL_Demo
-Simple OpenGL demo with C# bindings
+Simple OpenGL demo
+
+-c# bindings
+-map generator
+-player movement & collision
